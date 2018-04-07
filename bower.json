@@ -1,0 +1,22 @@
+{
+  "name": "proyecto_bower",
+  "authors": [
+    "jesus ponciano <musprins13@gmail.com>"
+  ],
+  "description": "proyecto10 bower",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "fontawesome": "^5.0.9"
+  }
+}
